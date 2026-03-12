@@ -6,6 +6,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class MainApp {
+    //Class MainApp
     public static void main(String[] args) {
         // Initialize Spring context
         try (AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class)) {
